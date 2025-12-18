@@ -1,0 +1,12 @@
+# Data files (too large for git)
+*.mat
+*.npy
+
+# Logs
+*.log
+execution*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
